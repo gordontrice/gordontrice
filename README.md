@@ -23,6 +23,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 <hr>
 <hr>
 
+&nbsp;
 [😃About Me](#about-me)
 &nbsp;
 &nbsp;
@@ -54,15 +55,6 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 &nbsp;
 &nbsp;
 [🎓What I Am Currently Learning](#what-i-am-currently-learning)
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 ## About Me
 ---
