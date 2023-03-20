@@ -1,8 +1,7 @@
-<p align="center">
-<h1> Gordon Rice
-<br>
-<h2> Web Developer
-</p>
+<img width="900" alt="Screenshot 2023-03-19 at 7 44 08 PM" src="https://user-images.githubusercontent.com/121966384/226221613-eb106f3f-94e4-4422-a56b-d361d5f706eb.png">
+
+
+
 
 [😃About Me](#about-me)---[🏆Project Highlights](#project-highlights)---[✅Past Projects](#past-projects)---[🎓What I Am Currently Learning](#what-i-am-currently-learning)---[📫How To Reach Me](#how-to-reach-me)
 
