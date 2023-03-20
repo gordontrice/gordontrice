@@ -14,7 +14,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   </a>
   &nbsp;
  <a href="mailto:gordon.t.rice.vet@gmail.com">
-      <img width="20px" src="Gmail-Logo.wine.svg" />
+      <img width="30px" src="Gmail-Logo.wine.svg" />
   </a></p>
 </div>
 <br>
