@@ -10,7 +10,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gordon-rice/">
-    <img width="30px" src=""  />
+    <img width="30px" src="Screenshot 2023-03-19 at 8.17.54 PM.png"  />
   </a>
   &nbsp;
  <a href="mailto:gordon.t.rice.vet@gmail.com">
