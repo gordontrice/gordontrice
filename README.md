@@ -10,11 +10,11 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gordon-rice/">
-    <img width="30px" src="/assests/linkedin-line.svg"  />
+    <img width="30px" src=""  />
   </a>
   &nbsp;
  <a href="mailto:gordon.t.rice.vet@gmail.com">
-      <img width="20px" src="/assests/gmail.svg" />
+      <img width="20px" src="" />
   </a></p>
 </div>
 <br>
