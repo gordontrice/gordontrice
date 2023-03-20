@@ -16,14 +16,6 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   <a href="https://twitter.com/GaganpreetKalsi">
     <img width="28px" src="/assests/twitter-line.svg" />
   </a>  
-  &nbsp;
-  <a href="https://www.instagram.com/gagancodes_/">
-    <img width="28px" src="/assests/instagram-line.svg" />
-  </a>  
-  &nbsp;
-  <a href="https://medium.com/@gaganpreetkaurkalsi">
-    <img width="28px" src="/assests/medium-line.svg" />
-  </a> 
 </div>
 <br>
 <br>
