@@ -34,7 +34,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 &nbsp;
 
 | [😃About Me](#about-me) | [🏆Project Highlights](#project-highlights) | [✅Past Projects](#past-projects) | [🎓What I Am Currently Learning](#what-i-am-currently-learning) |
-|-------|-------|-----|---------|
+|:-------:|:-------:|:-----:|:---------:|
 ## About Me
 ---
 ## Project Highlights
