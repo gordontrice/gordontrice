@@ -1,6 +1,73 @@
 <img width="900" alt="Screenshot 2023-03-19 at 7 46 28 PM" src="https://user-images.githubusercontent.com/121966384/226221817-d1775be2-adf0-4d6b-a610-66c5ae96ba3e.png">
 
-[😃About Me](#about-me)---[🏆Project Highlights](#project-highlights)---[✅Past Projects](#past-projects)---[🎓What I Am Currently Learning](#what-i-am-currently-learning)---[📫How To Reach Me](#how-to-reach-me)
+<br><br>
+<p align="center" style="margin-top:10px">
+<b>
+Welcome to my Github profile!</b> <br>
+Scroll down below to find what I do, what I am doing, and what I am upto.<br>   
+<i>Want to collaborate, reach me below.</i>
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gordon-rice/">
+    <img width="30px" src="/assests/linkedin-line.svg"  />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/GaganpreetKalsi">
+    <img width="28px" src="/assests/twitter-line.svg" />
+  </a>  
+  &nbsp;
+  <a href="https://www.instagram.com/gagancodes_/">
+    <img width="28px" src="/assests/instagram-line.svg" />
+  </a>  
+  &nbsp;
+  <a href="https://medium.com/@gaganpreetkaurkalsi">
+    <img width="28px" src="/assests/medium-line.svg" />
+  </a> 
+</div>
+<br>
+<br>
+
+[😃About Me](#about-me)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+[🏆Project Highlights](#project-highlights)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+[✅Past Projects](#past-projects)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+[🎓What I Am Currently Learning](#what-i-am-currently-learning)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## About Me
 ---
@@ -10,4 +77,3 @@
 ---
 ## What I Am Currently Learning
 ---
-## How To Reach Me
