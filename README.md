@@ -16,9 +16,12 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
  <a href="mailto:gordon.t.rice.vet@gmail.com">
       <img width="50px" src="Gmail-Logo.wine.svg" />
   </a></p>
+  &nbsp;
 </div>
 <br>
 <br>
+<hr>
+<hr>
 
 [😃About Me](#about-me)
 &nbsp;
