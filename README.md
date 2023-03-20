@@ -22,40 +22,19 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 <br>
 <hr>
 <hr>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-&nbsp;
-[😃About Me](#about-me)
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-[🏆Project Highlights](#project-highlights)
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-[✅Past Projects](#past-projects)
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-[🎓What I Am Currently Learning](#what-i-am-currently-learning)
-
+| [😃About Me](#about-me) | [🏆Project Highlights](#project-highlights) | [✅Past Projects](#past-projects) | [🎓What I Am Currently Learning](#what-i-am-currently-learning) |
+|-------|-------|-----|---------|
 ## About Me
 ---
 ## Project Highlights
